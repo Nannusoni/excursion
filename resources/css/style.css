@@ -1,0 +1,27 @@
+body{
+    background: black;
+    text-align: center;
+}
+
+.head{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    align-items: center;
+}
+
+.de{
+    /* Note de indicate that download execursion */
+    color: aquamarine;
+    font-weight: normal;
+    font-size: 30px;
+
+}
+.ftr{
+    color: white;
+    font-size: 17px;
+    font-style: italic;
+    text-align: right;
+    color: gray;
+}
