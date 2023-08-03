@@ -25,3 +25,16 @@ body{
     text-align: right;
     color: gray;
 }
+
+.ads{
+    width: 400;
+    height: 720;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class="col"] {
+      width: 100%;
+    }
+  }
